@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#/bin/Debug/net6.0/C#
+/home/dec/Área de Trabalho/Backend/Backend/C#/bin/Debug/net6.0/C#.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#/bin/Debug/net6.0/C#.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#/bin/Debug/net6.0/C#.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#/obj/Debug/net6.0/C#.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#/obj/Debug/net6.0/refint/C#.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#/obj/Debug/net6.0/C#.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#/obj/Debug/net6.0/ref/C#.dll
