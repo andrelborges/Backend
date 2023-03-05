@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/bin/Debug/net6.0/C#_Chamar_metodos_Classes_.NEt
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/bin/Debug/net6.0/C#_Chamar_metodos_Classes_.NEt.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/bin/Debug/net6.0/C#_Chamar_metodos_Classes_.NEt.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/bin/Debug/net6.0/C#_Chamar_metodos_Classes_.NEt.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/bin/Debug/net6.0/C#_Chamar_metodos_Classes_.NEt.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/obj/Debug/net6.0/C#_Chamar_metodos_Classes_.NEt.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/obj/Debug/net6.0/C#_Chamar_metodos_Classes_.NEt.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/obj/Debug/net6.0/C#_Chamar_metodos_Classes_.NEt.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/obj/Debug/net6.0/C#_Chamar_metodos_Classes_.NEt.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/obj/Debug/net6.0/C#_Chamar_metodos_Classes_.NEt.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/obj/Debug/net6.0/C#_Chamar_metodos_Classes_.NEt.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/obj/Debug/net6.0/refint/C#_Chamar_metodos_Classes_.NEt.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/obj/Debug/net6.0/C#_Chamar_metodos_Classes_.NEt.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/obj/Debug/net6.0/C#_Chamar_metodos_Classes_.NEt.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Chamar_metodos_Classes_.NEt/obj/Debug/net6.0/ref/C#_Chamar_metodos_Classes_.NEt.dll
