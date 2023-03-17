@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/bin/Debug/net6.0/C#_Metodo_Classe_Namespace
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/bin/Debug/net6.0/C#_Metodo_Classe_Namespace.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/bin/Debug/net6.0/C#_Metodo_Classe_Namespace.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/bin/Debug/net6.0/C#_Metodo_Classe_Namespace.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/bin/Debug/net6.0/C#_Metodo_Classe_Namespace.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/obj/Debug/net6.0/C#_Metodo_Classe_Namespace.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/obj/Debug/net6.0/C#_Metodo_Classe_Namespace.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/obj/Debug/net6.0/C#_Metodo_Classe_Namespace.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/obj/Debug/net6.0/C#_Metodo_Classe_Namespace.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/obj/Debug/net6.0/C#_Metodo_Classe_Namespace.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/obj/Debug/net6.0/C#_Metodo_Classe_Namespace.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/obj/Debug/net6.0/refint/C#_Metodo_Classe_Namespace.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/obj/Debug/net6.0/C#_Metodo_Classe_Namespace.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/obj/Debug/net6.0/C#_Metodo_Classe_Namespace.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Metodo_Classe_Namespace/obj/Debug/net6.0/ref/C#_Metodo_Classe_Namespace.dll
