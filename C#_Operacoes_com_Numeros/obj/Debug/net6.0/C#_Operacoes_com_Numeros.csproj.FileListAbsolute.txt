@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/bin/Debug/net6.0/C#_Operacoes_com_Numeros
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/bin/Debug/net6.0/C#_Operacoes_com_Numeros.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/bin/Debug/net6.0/C#_Operacoes_com_Numeros.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/bin/Debug/net6.0/C#_Operacoes_com_Numeros.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/bin/Debug/net6.0/C#_Operacoes_com_Numeros.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/obj/Debug/net6.0/C#_Operacoes_com_Numeros.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/obj/Debug/net6.0/C#_Operacoes_com_Numeros.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/obj/Debug/net6.0/C#_Operacoes_com_Numeros.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/obj/Debug/net6.0/C#_Operacoes_com_Numeros.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/obj/Debug/net6.0/C#_Operacoes_com_Numeros.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/obj/Debug/net6.0/C#_Operacoes_com_Numeros.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/obj/Debug/net6.0/refint/C#_Operacoes_com_Numeros.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/obj/Debug/net6.0/C#_Operacoes_com_Numeros.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/obj/Debug/net6.0/C#_Operacoes_com_Numeros.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Operacoes_com_Numeros/obj/Debug/net6.0/ref/C#_Operacoes_com_Numeros.dll

@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/bin/Debug/net6.0/C#_IF
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/bin/Debug/net6.0/C#_IF.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/bin/Debug/net6.0/C#_IF.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/bin/Debug/net6.0/C#_IF.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/bin/Debug/net6.0/C#_IF.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/obj/Debug/net6.0/C#_IF.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/obj/Debug/net6.0/C#_IF.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/obj/Debug/net6.0/C#_IF.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/obj/Debug/net6.0/C#_IF.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/obj/Debug/net6.0/C#_IF.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/obj/Debug/net6.0/C#_IF.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/obj/Debug/net6.0/refint/C#_IF.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/obj/Debug/net6.0/C#_IF.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/obj/Debug/net6.0/C#_IF.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_IF/obj/Debug/net6.0/ref/C#_IF.dll

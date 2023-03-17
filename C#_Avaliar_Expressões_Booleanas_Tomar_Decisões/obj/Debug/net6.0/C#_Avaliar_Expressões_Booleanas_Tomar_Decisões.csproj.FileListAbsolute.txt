@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/bin/Debug/net6.0/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/bin/Debug/net6.0/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/bin/Debug/net6.0/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/bin/Debug/net6.0/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/bin/Debug/net6.0/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/obj/Debug/net6.0/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/obj/Debug/net6.0/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/obj/Debug/net6.0/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/obj/Debug/net6.0/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/obj/Debug/net6.0/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/obj/Debug/net6.0/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/obj/Debug/net6.0/refint/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/obj/Debug/net6.0/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/obj/Debug/net6.0/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/obj/Debug/net6.0/ref/C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/1.0.0": {
+        "runtime": {
+          "C#_Avaliar_Expressões_Booleanas_Tomar_Decisões.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#_Avaliar_Expressões_Booleanas_Tomar_Decisões/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

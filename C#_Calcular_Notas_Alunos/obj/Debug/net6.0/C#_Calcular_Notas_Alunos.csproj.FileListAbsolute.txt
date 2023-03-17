@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/bin/Debug/net6.0/C#_Calcular_Notas_Alunos
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/bin/Debug/net6.0/C#_Calcular_Notas_Alunos.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/bin/Debug/net6.0/C#_Calcular_Notas_Alunos.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/bin/Debug/net6.0/C#_Calcular_Notas_Alunos.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/bin/Debug/net6.0/C#_Calcular_Notas_Alunos.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/obj/Debug/net6.0/C#_Calcular_Notas_Alunos.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/obj/Debug/net6.0/C#_Calcular_Notas_Alunos.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/obj/Debug/net6.0/C#_Calcular_Notas_Alunos.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/obj/Debug/net6.0/C#_Calcular_Notas_Alunos.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/obj/Debug/net6.0/C#_Calcular_Notas_Alunos.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/obj/Debug/net6.0/C#_Calcular_Notas_Alunos.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/obj/Debug/net6.0/refint/C#_Calcular_Notas_Alunos.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/obj/Debug/net6.0/C#_Calcular_Notas_Alunos.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/obj/Debug/net6.0/C#_Calcular_Notas_Alunos.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Calcular_Notas_Alunos/obj/Debug/net6.0/ref/C#_Calcular_Notas_Alunos.dll

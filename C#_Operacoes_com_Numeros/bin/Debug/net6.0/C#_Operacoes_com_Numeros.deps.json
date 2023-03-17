@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C#_Operacoes_com_Numeros/1.0.0": {
+        "runtime": {
+          "C#_Operacoes_com_Numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#_Operacoes_com_Numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
