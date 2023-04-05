@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/bin/Debug/net6.0/C#_Controlar_escopo_variavel_logica
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/bin/Debug/net6.0/C#_Controlar_escopo_variavel_logica.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/bin/Debug/net6.0/C#_Controlar_escopo_variavel_logica.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/bin/Debug/net6.0/C#_Controlar_escopo_variavel_logica.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/bin/Debug/net6.0/C#_Controlar_escopo_variavel_logica.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/obj/Debug/net6.0/C#_Controlar_escopo_variavel_logica.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/obj/Debug/net6.0/C#_Controlar_escopo_variavel_logica.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/obj/Debug/net6.0/C#_Controlar_escopo_variavel_logica.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/obj/Debug/net6.0/C#_Controlar_escopo_variavel_logica.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/obj/Debug/net6.0/C#_Controlar_escopo_variavel_logica.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/obj/Debug/net6.0/C#_Controlar_escopo_variavel_logica.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/obj/Debug/net6.0/refint/C#_Controlar_escopo_variavel_logica.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/obj/Debug/net6.0/C#_Controlar_escopo_variavel_logica.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/obj/Debug/net6.0/C#_Controlar_escopo_variavel_logica.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Controlar_escopo_variavel_logica/obj/Debug/net6.0/ref/C#_Controlar_escopo_variavel_logica.dll

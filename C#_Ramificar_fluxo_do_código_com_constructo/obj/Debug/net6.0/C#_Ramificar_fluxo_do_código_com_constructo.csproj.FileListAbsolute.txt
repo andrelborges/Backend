@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/bin/Debug/net6.0/C#_Ramificar_fluxo_do_código_com_constructo
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/bin/Debug/net6.0/C#_Ramificar_fluxo_do_código_com_constructo.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/bin/Debug/net6.0/C#_Ramificar_fluxo_do_código_com_constructo.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/bin/Debug/net6.0/C#_Ramificar_fluxo_do_código_com_constructo.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/bin/Debug/net6.0/C#_Ramificar_fluxo_do_código_com_constructo.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/obj/Debug/net6.0/C#_Ramificar_fluxo_do_código_com_constructo.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/obj/Debug/net6.0/C#_Ramificar_fluxo_do_código_com_constructo.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/obj/Debug/net6.0/C#_Ramificar_fluxo_do_código_com_constructo.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/obj/Debug/net6.0/C#_Ramificar_fluxo_do_código_com_constructo.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/obj/Debug/net6.0/C#_Ramificar_fluxo_do_código_com_constructo.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/obj/Debug/net6.0/C#_Ramificar_fluxo_do_código_com_constructo.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/obj/Debug/net6.0/refint/C#_Ramificar_fluxo_do_código_com_constructo.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/obj/Debug/net6.0/C#_Ramificar_fluxo_do_código_com_constructo.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/obj/Debug/net6.0/C#_Ramificar_fluxo_do_código_com_constructo.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Ramificar_fluxo_do_código_com_constructo/obj/Debug/net6.0/ref/C#_Ramificar_fluxo_do_código_com_constructo.dll
