@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/bin/Debug/net6.0/C#_loop_for
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/bin/Debug/net6.0/C#_loop_for.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/bin/Debug/net6.0/C#_loop_for.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/bin/Debug/net6.0/C#_loop_for.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/bin/Debug/net6.0/C#_loop_for.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/obj/Debug/net6.0/C#_loop_for.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/obj/Debug/net6.0/C#_loop_for.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/obj/Debug/net6.0/C#_loop_for.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/obj/Debug/net6.0/C#_loop_for.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/obj/Debug/net6.0/C#_loop_for.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/obj/Debug/net6.0/C#_loop_for.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/obj/Debug/net6.0/refint/C#_loop_for.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/obj/Debug/net6.0/C#_loop_for.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/obj/Debug/net6.0/C#_loop_for.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_loop_for/obj/Debug/net6.0/ref/C#_loop_for.dll

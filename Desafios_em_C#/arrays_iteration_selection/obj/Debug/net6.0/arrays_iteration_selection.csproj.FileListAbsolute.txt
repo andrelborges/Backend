@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/obj/Debug/net6.0/arrays_iteration_selection.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/obj/Debug/net6.0/arrays_iteration_selection.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/obj/Debug/net6.0/arrays_iteration_selection.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/obj/Debug/net6.0/arrays_iteration_selection.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/obj/Debug/net6.0/arrays_iteration_selection.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/bin/Debug/net6.0/arrays_iteration_selection
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/bin/Debug/net6.0/arrays_iteration_selection.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/bin/Debug/net6.0/arrays_iteration_selection.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/bin/Debug/net6.0/arrays_iteration_selection.dll
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/bin/Debug/net6.0/arrays_iteration_selection.pdb
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/obj/Debug/net6.0/arrays_iteration_selection.dll
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/obj/Debug/net6.0/refint/arrays_iteration_selection.dll
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/obj/Debug/net6.0/arrays_iteration_selection.pdb
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/obj/Debug/net6.0/arrays_iteration_selection.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/Desafios_em_C#/arrays_iteration_selection/obj/Debug/net6.0/ref/arrays_iteration_selection.dll
