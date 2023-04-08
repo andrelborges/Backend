@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/bin/Debug/net6.0/C#_do_while
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/bin/Debug/net6.0/C#_do_while.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/bin/Debug/net6.0/C#_do_while.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/bin/Debug/net6.0/C#_do_while.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/bin/Debug/net6.0/C#_do_while.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/obj/Debug/net6.0/C#_do_while.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/obj/Debug/net6.0/C#_do_while.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/obj/Debug/net6.0/C#_do_while.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/obj/Debug/net6.0/C#_do_while.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/obj/Debug/net6.0/C#_do_while.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/obj/Debug/net6.0/C#_do_while.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/obj/Debug/net6.0/refint/C#_do_while.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/obj/Debug/net6.0/C#_do_while.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/obj/Debug/net6.0/C#_do_while.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_do_while/obj/Debug/net6.0/ref/C#_do_while.dll
