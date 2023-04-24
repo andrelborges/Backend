@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/obj/Debug/net6.0/C#_Converter_tipos_dados.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/obj/Debug/net6.0/C#_Converter_tipos_dados.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/obj/Debug/net6.0/C#_Converter_tipos_dados.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/obj/Debug/net6.0/C#_Converter_tipos_dados.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/obj/Debug/net6.0/C#_Converter_tipos_dados.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/bin/Debug/net6.0/C#_Converter_tipos_dados
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/bin/Debug/net6.0/C#_Converter_tipos_dados.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/bin/Debug/net6.0/C#_Converter_tipos_dados.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/bin/Debug/net6.0/C#_Converter_tipos_dados.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/bin/Debug/net6.0/C#_Converter_tipos_dados.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/obj/Debug/net6.0/C#_Converter_tipos_dados.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/obj/Debug/net6.0/refint/C#_Converter_tipos_dados.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/obj/Debug/net6.0/C#_Converter_tipos_dados.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/obj/Debug/net6.0/C#_Converter_tipos_dados.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Converter_tipos_dados/obj/Debug/net6.0/ref/C#_Converter_tipos_dados.dll

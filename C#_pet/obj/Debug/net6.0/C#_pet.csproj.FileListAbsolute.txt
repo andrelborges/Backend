@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/bin/Debug/net6.0/C#_pet
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/bin/Debug/net6.0/C#_pet.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/bin/Debug/net6.0/C#_pet.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/bin/Debug/net6.0/C#_pet.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/bin/Debug/net6.0/C#_pet.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/obj/Debug/net6.0/C#_pet.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/obj/Debug/net6.0/C#_pet.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/obj/Debug/net6.0/C#_pet.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/obj/Debug/net6.0/C#_pet.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/obj/Debug/net6.0/C#_pet.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/obj/Debug/net6.0/C#_pet.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/obj/Debug/net6.0/refint/C#_pet.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/obj/Debug/net6.0/C#_pet.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/obj/Debug/net6.0/C#_pet.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_pet/obj/Debug/net6.0/ref/C#_pet.dll

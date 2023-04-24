@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/obj/Debug/net6.0/C#_tipo_correto_de_dados.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/obj/Debug/net6.0/C#_tipo_correto_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/obj/Debug/net6.0/C#_tipo_correto_de_dados.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/obj/Debug/net6.0/C#_tipo_correto_de_dados.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/obj/Debug/net6.0/C#_tipo_correto_de_dados.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/bin/Debug/net6.0/C#_tipo_correto_de_dados
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/bin/Debug/net6.0/C#_tipo_correto_de_dados.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/bin/Debug/net6.0/C#_tipo_correto_de_dados.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/bin/Debug/net6.0/C#_tipo_correto_de_dados.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/bin/Debug/net6.0/C#_tipo_correto_de_dados.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/obj/Debug/net6.0/C#_tipo_correto_de_dados.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/obj/Debug/net6.0/refint/C#_tipo_correto_de_dados.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/obj/Debug/net6.0/C#_tipo_correto_de_dados.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/obj/Debug/net6.0/C#_tipo_correto_de_dados.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_tipo_correto_de_dados/obj/Debug/net6.0/ref/C#_tipo_correto_de_dados.dll

@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/obj/Debug/net6.0/pet_desafio.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/obj/Debug/net6.0/pet_desafio.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/obj/Debug/net6.0/pet_desafio.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/obj/Debug/net6.0/pet_desafio.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/obj/Debug/net6.0/pet_desafio.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/bin/Debug/net6.0/pet_desafio
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/bin/Debug/net6.0/pet_desafio.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/bin/Debug/net6.0/pet_desafio.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/bin/Debug/net6.0/pet_desafio.dll
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/bin/Debug/net6.0/pet_desafio.pdb
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/obj/Debug/net6.0/pet_desafio.dll
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/obj/Debug/net6.0/refint/pet_desafio.dll
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/obj/Debug/net6.0/pet_desafio.pdb
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/obj/Debug/net6.0/pet_desafio.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/pet_desafio/obj/Debug/net6.0/ref/pet_desafio.dll
