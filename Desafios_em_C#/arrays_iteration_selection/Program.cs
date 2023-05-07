@@ -23,11 +23,6 @@
 
 //Adicionando 4 estudantes 
 
-string student1 = "Andre";
-
-string student2 = "Bruno";
-string student3 = "Carlos";
-string tudent4 = "Diogo";
 
 int currentAssignments = 5;
 

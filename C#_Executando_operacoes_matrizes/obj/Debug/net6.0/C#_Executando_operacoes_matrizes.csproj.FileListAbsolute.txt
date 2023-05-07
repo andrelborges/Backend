@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/bin/Debug/net6.0/C#_Executando_operacoes_matrizes
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/bin/Debug/net6.0/C#_Executando_operacoes_matrizes.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/bin/Debug/net6.0/C#_Executando_operacoes_matrizes.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/bin/Debug/net6.0/C#_Executando_operacoes_matrizes.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/bin/Debug/net6.0/C#_Executando_operacoes_matrizes.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/obj/Debug/net6.0/C#_Executando_operacoes_matrizes.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/obj/Debug/net6.0/C#_Executando_operacoes_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/obj/Debug/net6.0/C#_Executando_operacoes_matrizes.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/obj/Debug/net6.0/C#_Executando_operacoes_matrizes.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/obj/Debug/net6.0/C#_Executando_operacoes_matrizes.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/obj/Debug/net6.0/C#_Executando_operacoes_matrizes.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/obj/Debug/net6.0/refint/C#_Executando_operacoes_matrizes.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/obj/Debug/net6.0/C#_Executando_operacoes_matrizes.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/obj/Debug/net6.0/C#_Executando_operacoes_matrizes.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Executando_operacoes_matrizes/obj/Debug/net6.0/ref/C#_Executando_operacoes_matrizes.dll
