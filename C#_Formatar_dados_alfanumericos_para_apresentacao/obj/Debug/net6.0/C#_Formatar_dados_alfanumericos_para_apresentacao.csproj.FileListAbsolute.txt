@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/bin/Debug/net6.0/C#_Formatar_dados_alfanumericos_para_apresentacao
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/bin/Debug/net6.0/C#_Formatar_dados_alfanumericos_para_apresentacao.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/bin/Debug/net6.0/C#_Formatar_dados_alfanumericos_para_apresentacao.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/bin/Debug/net6.0/C#_Formatar_dados_alfanumericos_para_apresentacao.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/bin/Debug/net6.0/C#_Formatar_dados_alfanumericos_para_apresentacao.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/obj/Debug/net6.0/C#_Formatar_dados_alfanumericos_para_apresentacao.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/obj/Debug/net6.0/C#_Formatar_dados_alfanumericos_para_apresentacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/obj/Debug/net6.0/C#_Formatar_dados_alfanumericos_para_apresentacao.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/obj/Debug/net6.0/C#_Formatar_dados_alfanumericos_para_apresentacao.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/obj/Debug/net6.0/C#_Formatar_dados_alfanumericos_para_apresentacao.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/obj/Debug/net6.0/C#_Formatar_dados_alfanumericos_para_apresentacao.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/obj/Debug/net6.0/refint/C#_Formatar_dados_alfanumericos_para_apresentacao.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/obj/Debug/net6.0/C#_Formatar_dados_alfanumericos_para_apresentacao.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/obj/Debug/net6.0/C#_Formatar_dados_alfanumericos_para_apresentacao.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Formatar_dados_alfanumericos_para_apresentacao/obj/Debug/net6.0/ref/C#_Formatar_dados_alfanumericos_para_apresentacao.dll

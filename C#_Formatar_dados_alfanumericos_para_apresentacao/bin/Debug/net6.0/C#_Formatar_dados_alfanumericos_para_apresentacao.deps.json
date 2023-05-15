@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C#_Formatar_dados_alfanumericos_para_apresentacao/1.0.0": {
+        "runtime": {
+          "C#_Formatar_dados_alfanumericos_para_apresentacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#_Formatar_dados_alfanumericos_para_apresentacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
