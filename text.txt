@@ -1,3 +1,14 @@
 Este e um pequeno texto criado para que o C# possa ler
 esta e a segunda linha 
 terceira linha
+
+Programa C#
+
+Entry POint (aplicativo)
+
+Name Spaces -> Classes , estruturas , interfaces , enumerações
+e delegados.
+-> constantes, campos , metodos, Propriedades, operadores,
+contrutores de instancia cont. estaticos , destruidores,
+tipos aninhados.
+

@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/obj/Debug/net6.0/C#_project_Worl_variable.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/obj/Debug/net6.0/C#_project_Worl_variable.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/obj/Debug/net6.0/C#_project_Worl_variable.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/obj/Debug/net6.0/C#_project_Worl_variable.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/obj/Debug/net6.0/C#_project_Worl_variable.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/bin/Debug/net6.0/C#_project_Worl_variable
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/bin/Debug/net6.0/C#_project_Worl_variable.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/bin/Debug/net6.0/C#_project_Worl_variable.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/bin/Debug/net6.0/C#_project_Worl_variable.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/bin/Debug/net6.0/C#_project_Worl_variable.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/obj/Debug/net6.0/C#_project_Worl_variable.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/obj/Debug/net6.0/refint/C#_project_Worl_variable.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/obj/Debug/net6.0/C#_project_Worl_variable.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/obj/Debug/net6.0/C#_project_Worl_variable.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_project_Worl_variable/obj/Debug/net6.0/ref/C#_project_Worl_variable.dll

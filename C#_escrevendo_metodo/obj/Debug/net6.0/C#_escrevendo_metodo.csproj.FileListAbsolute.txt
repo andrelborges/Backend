@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/bin/Debug/net6.0/C#_escrevendo_metodo
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/bin/Debug/net6.0/C#_escrevendo_metodo.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/bin/Debug/net6.0/C#_escrevendo_metodo.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/bin/Debug/net6.0/C#_escrevendo_metodo.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/bin/Debug/net6.0/C#_escrevendo_metodo.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/obj/Debug/net6.0/C#_escrevendo_metodo.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/obj/Debug/net6.0/C#_escrevendo_metodo.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/obj/Debug/net6.0/C#_escrevendo_metodo.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/obj/Debug/net6.0/C#_escrevendo_metodo.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/obj/Debug/net6.0/C#_escrevendo_metodo.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/obj/Debug/net6.0/C#_escrevendo_metodo.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/obj/Debug/net6.0/refint/C#_escrevendo_metodo.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/obj/Debug/net6.0/C#_escrevendo_metodo.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/obj/Debug/net6.0/C#_escrevendo_metodo.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_escrevendo_metodo/obj/Debug/net6.0/ref/C#_escrevendo_metodo.dll

@@ -3,7 +3,6 @@
 /home/dec/Área de Trabalho/Backend/Backend/Testes/bin/Debug/net6.0/Testes.runtimeconfig.json
 /home/dec/Área de Trabalho/Backend/Backend/Testes/bin/Debug/net6.0/Testes.dll
 /home/dec/Área de Trabalho/Backend/Backend/Testes/bin/Debug/net6.0/Testes.pdb
-/home/dec/Área de Trabalho/Backend/Backend/Testes/obj/Debug/net6.0/Testes.csproj.AssemblyReference.cache
 /home/dec/Área de Trabalho/Backend/Backend/Testes/obj/Debug/net6.0/Testes.GeneratedMSBuildEditorConfig.editorconfig
 /home/dec/Área de Trabalho/Backend/Backend/Testes/obj/Debug/net6.0/Testes.AssemblyInfoInputs.cache
 /home/dec/Área de Trabalho/Backend/Backend/Testes/obj/Debug/net6.0/Testes.AssemblyInfo.cs
@@ -13,3 +12,4 @@
 /home/dec/Área de Trabalho/Backend/Backend/Testes/obj/Debug/net6.0/Testes.pdb
 /home/dec/Área de Trabalho/Backend/Backend/Testes/obj/Debug/net6.0/Testes.genruntimeconfig.cache
 /home/dec/Área de Trabalho/Backend/Backend/Testes/obj/Debug/net6.0/ref/Testes.dll
+/home/dec/Área de Trabalho/Backend/Backend/Testes/obj/Debug/net6.0/Testes.csproj.AssemblyReference.cache

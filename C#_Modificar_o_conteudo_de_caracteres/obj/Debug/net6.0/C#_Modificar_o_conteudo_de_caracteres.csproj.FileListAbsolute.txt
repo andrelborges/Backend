@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/bin/Debug/net6.0/C#_Modificar_o_conteudo_de_caracteres
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/bin/Debug/net6.0/C#_Modificar_o_conteudo_de_caracteres.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/bin/Debug/net6.0/C#_Modificar_o_conteudo_de_caracteres.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/bin/Debug/net6.0/C#_Modificar_o_conteudo_de_caracteres.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/bin/Debug/net6.0/C#_Modificar_o_conteudo_de_caracteres.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/obj/Debug/net6.0/C#_Modificar_o_conteudo_de_caracteres.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/obj/Debug/net6.0/C#_Modificar_o_conteudo_de_caracteres.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/obj/Debug/net6.0/C#_Modificar_o_conteudo_de_caracteres.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/obj/Debug/net6.0/C#_Modificar_o_conteudo_de_caracteres.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/obj/Debug/net6.0/C#_Modificar_o_conteudo_de_caracteres.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/obj/Debug/net6.0/C#_Modificar_o_conteudo_de_caracteres.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/obj/Debug/net6.0/refint/C#_Modificar_o_conteudo_de_caracteres.dll
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/obj/Debug/net6.0/C#_Modificar_o_conteudo_de_caracteres.pdb
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/obj/Debug/net6.0/C#_Modificar_o_conteudo_de_caracteres.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/C#_Modificar_o_conteudo_de_caracteres/obj/Debug/net6.0/ref/C#_Modificar_o_conteudo_de_caracteres.dll

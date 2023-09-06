@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZsaHsAJ3Mpnb1jzEFEH7JwI9+eybp9tecju0vIo7P7a5icRu/MaFIMnQmYBR3KOvOANR8z0IzhMbbp8AwX5MuQ==",
+  "dgSpecHash": "iME1MQi5M3hIEPHX+M5ibFeE7bOipEgPXp3GjtUizmxYSyVfeViYxnEufWqAzd3dn6gYEBpHq1kijHfnMhxdgg==",
   "success": true,
   "projectFilePath": "/home/dec/Área de Trabalho/Backend/Backend/Testes/Testes.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/dec/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "/home/dec/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "/home/dec/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.16/microsoft.netcore.app.host.linux-x64.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

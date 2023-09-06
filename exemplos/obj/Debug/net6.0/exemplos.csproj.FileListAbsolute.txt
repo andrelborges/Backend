@@ -1,0 +1,15 @@
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/bin/Debug/net6.0/exemplos
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/bin/Debug/net6.0/exemplos.deps.json
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/bin/Debug/net6.0/exemplos.runtimeconfig.json
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/bin/Debug/net6.0/exemplos.dll
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/bin/Debug/net6.0/exemplos.pdb
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/obj/Debug/net6.0/exemplos.csproj.AssemblyReference.cache
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/obj/Debug/net6.0/exemplos.GeneratedMSBuildEditorConfig.editorconfig
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/obj/Debug/net6.0/exemplos.AssemblyInfoInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/obj/Debug/net6.0/exemplos.AssemblyInfo.cs
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/obj/Debug/net6.0/exemplos.csproj.CoreCompileInputs.cache
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/obj/Debug/net6.0/exemplos.dll
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/obj/Debug/net6.0/refint/exemplos.dll
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/obj/Debug/net6.0/exemplos.pdb
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/obj/Debug/net6.0/exemplos.genruntimeconfig.cache
+/home/dec/Área de Trabalho/Backend/Backend/exemplos/obj/Debug/net6.0/ref/exemplos.dll
